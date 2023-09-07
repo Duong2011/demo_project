@@ -1,1 +1,9 @@
 E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\bin\Debug\Buoi 4.exe.config
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\bin\Debug\Buoi 4.exe
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\bin\Debug\Buoi 4.pdb
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\obj\Debug\Buoi 4.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\obj\Debug\Buoi_4.Form1.resources
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\obj\Debug\Buoi_4.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\obj\Debug\Buoi 4.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\obj\Debug\Buoi 4.exe
+E:\LuuDuLieuSinhVien\2001200177 VoHoangDuong\demo_project\Buoi 4\Buoi 4\obj\Debug\Buoi 4.pdb

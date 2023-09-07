@@ -16,5 +16,12 @@ namespace Buoi_4
         {
             InitializeComponent();
         }
+
+        private void btnHello_Click(object sender, EventArgs e)
+        {
+            
+            MessageBox.Show("Bạn cao " + txtchieuCao.Text+" Cm");
+            txtchieuCao.Text = "";
+        }
     }
 }
